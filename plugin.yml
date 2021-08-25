@@ -1,9 +1,10 @@
 ---
 name: VanillaInventory
 version: 1.1.1
+author: korado531m7 Update By HaykalPRO
 main: korado531m7\VanillaInventory\Main
 api:
 - 3.0.0
 mcpe-protocol: 448
-deescription: Enable to use enchantment and anvil GUI
+description: Enable to use enchantment and anvil GUI
 ...
